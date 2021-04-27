@@ -27,6 +27,4 @@ Entrepreneurial mindset and a very creative person, I love music & teach the Spa
 ***
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicjaws&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Nicjaws's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicjaws&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicjaws&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Nicjaws's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicjaws&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
