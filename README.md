@@ -17,7 +17,7 @@ Entrepreneurial mindset and a very creative person, I love music & teach the Spa
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactjs/reactjs-original-wordmark.svg" alt="ReactJS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" alt="GraphQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
