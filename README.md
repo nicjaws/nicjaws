@@ -6,7 +6,7 @@ I´m a junior full stack developer with experience in HTML, CSS (Sass), React (J
 
 I am from Cádiz, south Spain. I have lived for 1.5 years in UK and 9 in Germany. Environmental engineer reinvented to my real passion: programming. Looking for my next challenge and growth opportunity as a web developer. If you need help with your own project, I would be happy to offer my programming services. Please reach out by sending me an email to nicolascorbalan@gmail.com
 
-Entrepreneurial mindset and a very creative person, I love music & teach the Spanish language. My Facebook public fan page "Learn Spanish" of @SnacksOfSpanish, which I teach the Spanish language within my twin brother Christian to 8000 people around the world. 
+Entrepreneurial mindset and a very creative person, I love music & teach the Spanish language. My Facebook public fan page "Learn Spanish" of @SnacksOfSpanish, which I teach the Spanish language within my twin brother Christian to 35000 people around the world. 
 
 
 ***
