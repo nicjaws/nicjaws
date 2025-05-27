@@ -2,7 +2,7 @@
 
 ***
 
-I´m a junior full-stack developer with experience in HTML, CSS (Tailwind), React (JavaScript), GraphQL, Firebase, Typescript, and UI/UX with Figma. I am currently working on some interesting projects that I hope to soon bring to fruition—you can see these here at GitHub. I am also starting with the Data Engineering path using Snowflake, DBT, and Power Bi. 
+I´m a full-stack developer with experience in HTML, CSS (Tailwind), React (JavaScript), GraphQL, Firebase, Typescript, and UI/UX with Figma. I am currently working on some interesting projects that I hope to soon bring to fruition—you can see these here at GitHub. I am also starting with the Data Engineering path using Snowflake, DBT, and Power Bi. 
 
 I am from Cádiz, south Spain. I have lived for 1.5 years in the UK and 9 years in Germany. Environmental engineer reinvented to my real passion: programming. Looking for my next challenge and growth opportunity as a web developer. If you need help with your project, I would happily offer my programming services. Please reach out by sending me an email to nicolascorbalan@gmail.com
 
